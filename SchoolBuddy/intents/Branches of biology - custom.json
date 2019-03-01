@@ -1,0 +1,33 @@
+{
+  "id": "8ad5d815-5e11-4dd8-9290-d3b3afe37bf4",
+  "parentId": "4cace58c-880c-4bec-bb95-0a63a80a094a",
+  "rootParentId": "4cace58c-880c-4bec-bb95-0a63a80a094a",
+  "name": "Branches of biology - custom",
+  "auto": true,
+  "contexts": [
+    "Branchesofbiology-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Branchesofbiology.Branchesofbiology-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Welcome! Do you have anyother question?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551429127,
+  "fallbackIntent": false,
+  "events": []
+}

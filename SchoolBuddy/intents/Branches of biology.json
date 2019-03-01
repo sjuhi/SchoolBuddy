@@ -1,0 +1,34 @@
+{
+  "id": "4cace58c-880c-4bec-bb95-0a63a80a094a",
+  "name": "Branches of biology",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Branchesofbiology-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "zoology, Botony, Ecology, Anotomy."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551428945,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "de609a21-791d-4255-a189-d90913c25268",
+  "parentId": "f74b0e19-e4c9-4613-9d93-353586c57a2a",
+  "rootParentId": "f74b0e19-e4c9-4613-9d93-353586c57a2a",
+  "name": "yes, what is DNA? - custom",
+  "auto": true,
+  "contexts": [
+    "yeswhatisDNA-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "yeswhatisDNA.yeswhatisDNA-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "yes."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551430532,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "9f643980-bbe4-4810-aa6a-a0c15c90307c",
+    "data": [
+      {
+        "text": "can i ask a question?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551427673
+  },
+  {
+    "id": "aaf885eb-5818-4034-ac04-f15d8746a782",
+    "data": [
+      {
+        "text": "I have a question.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551427673
+  },
+  {
+    "id": "0f389d85-b079-41a5-8812-657224fc8e8f",
+    "data": [
+      {
+        "text": "Would you please answer my question?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551427673
+  }
+]

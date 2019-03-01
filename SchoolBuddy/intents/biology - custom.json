@@ -1,0 +1,33 @@
+{
+  "id": "d0b8b284-87ea-45d1-9b38-c3504b614861",
+  "parentId": "505689d4-bf42-48d1-aaf5-c443f893a4da",
+  "rootParentId": "505689d4-bf42-48d1-aaf5-c443f893a4da",
+  "name": "biology - custom",
+  "auto": true,
+  "contexts": [
+    "biology-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "biology.biology-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I know right!!/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551432215,
+  "fallbackIntent": false,
+  "events": []
+}

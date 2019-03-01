@@ -1,0 +1,34 @@
+{
+  "id": "f74b0e19-e4c9-4613-9d93-353586c57a2a",
+  "name": "yes, what is DNA?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "yeswhatisDNA-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "An extremley long macromolecule that is the main component of chromosomes."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551429556,
+  "fallbackIntent": false,
+  "events": []
+}

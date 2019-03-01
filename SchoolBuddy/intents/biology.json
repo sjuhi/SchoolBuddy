@@ -1,0 +1,34 @@
+{
+  "id": "505689d4-bf42-48d1-aaf5-c443f893a4da",
+  "name": "biology",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "biology-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "if you arent aware the way humans \n have evolved with so amazing brain \n ability and advanced body \n organisation.\n."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551432083,
+  "fallbackIntent": false,
+  "events": []
+}
